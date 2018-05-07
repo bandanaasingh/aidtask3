@@ -1,0 +1,33 @@
+{
+  "name": "anyordersupport-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bootstrap-select": "^1.13.1",
+    "font-awesome": "^4.7.0",
+    "gulp-install": "^1.1.0",
+    "gulp-uglify": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-debug": "^3.0.0",
+    "gulp-minify": "0.0.14",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.8",
+    "pump": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bandanaasingh/bandana/anyordersupport-web.git"
+  },
+  "author": "AnyOrder",
+  "license": "UNLICENSED",
+  "private": true,
+  "homepage": "https://github.com/bandana/anyordersupport-web#readme"
+}

@@ -1,0 +1,111 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "eonasdan-bootstrap-datetimepicker-bootstrap4beta",
+        "scope": null,
+        "escapedName": "eonasdan-bootstrap-datetimepicker-bootstrap4beta",
+        "name": "eonasdan-bootstrap-datetimepicker-bootstrap4beta",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\Project\\Bigorder"
+    ]
+  ],
+  "_from": "eonasdan-bootstrap-datetimepicker-bootstrap4beta@latest",
+  "_id": "eonasdan-bootstrap-datetimepicker-bootstrap4beta@4.17.47-a",
+  "_inCache": true,
+  "_location": "/eonasdan-bootstrap-datetimepicker-bootstrap4beta",
+  "_nodeVersion": "8.1.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/eonasdan-bootstrap-datetimepicker-bootstrap4beta-4.17.47-a.tgz_1506403878760_0.2770165051333606"
+  },
+  "_npmUser": {
+    "name": "kenngsimply",
+    "email": "kenng@itwonders-design.com"
+  },
+  "_npmVersion": "5.0.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "eonasdan-bootstrap-datetimepicker-bootstrap4beta",
+    "scope": null,
+    "escapedName": "eonasdan-bootstrap-datetimepicker-bootstrap4beta",
+    "name": "eonasdan-bootstrap-datetimepicker-bootstrap4beta",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/eonasdan-bootstrap-datetimepicker-bootstrap4beta/-/eonasdan-bootstrap-datetimepicker-bootstrap4beta-4.17.47-a.tgz",
+  "_shasum": "6b6ee7fd18c4284d25e03f0196d6e66976cfed6b",
+  "_shrinkwrap": null,
+  "_spec": "eonasdan-bootstrap-datetimepicker-bootstrap4beta",
+  "_where": "E:\\Project\\Bigorder",
+  "author": {
+    "name": "Jonathan Peterson"
+  },
+  "bugs": {
+    "url": "https://github.com/eonasdan/bootstrap-datetimepicker/issues"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3",
+    "jquery": "^1.8.3 || ^2.0 || ^3.0",
+    "moment": "^2.10",
+    "moment-timezone": "^0.4.0"
+  },
+  "description": "[Modify to work with Bootstrap 4 beta. See README.md for css change.]: A date/time picker component designed to work with Bootstrap 3 and Momentjs. For usage, installation and demos see Project Site on GitHub",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-connect": "^1.0.1",
+    "grunt-contrib-jasmine": "^1.0.3",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-env": "^0.4.4",
+    "grunt-jscs": "latest",
+    "grunt-nuget": "^0.1.5",
+    "grunt-string-replace": "latest",
+    "load-grunt-tasks": "latest"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-PBSVeji4xJkjGGCjFXgG9nnFo6k2k22SPBuvyodL0zQLdthNIWaWBaH1l6hhAUJms9amjbxFPlTYXoPqROMMOA==",
+    "shasum": "6b6ee7fd18c4284d25e03f0196d6e66976cfed6b",
+    "tarball": "https://registry.npmjs.org/eonasdan-bootstrap-datetimepicker-bootstrap4beta/-/eonasdan-bootstrap-datetimepicker-bootstrap4beta-4.17.47-a.tgz"
+  },
+  "homepage": "http://eonasdan.github.io/bootstrap-datetimepicker/",
+  "keywords": [
+    "twitter-bootstrap",
+    "bootstrap",
+    "datepicker",
+    "datetimepicker",
+    "timepicker",
+    "moment"
+  ],
+  "license": "MIT",
+  "main": "src/js/bootstrap-datetimepicker.js",
+  "maintainers": [
+    {
+      "name": "kenngsimply",
+      "email": "kenng@itwonders-design.com"
+    }
+  ],
+  "name": "eonasdan-bootstrap-datetimepicker-bootstrap4beta",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "bootstrap": "^3.3",
+    "jquery": "^1.8.3 || ^2.0 || ^3.0",
+    "moment": "^2.10",
+    "moment-timezone": "^0.4.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eonasdan/bootstrap-datetimepicker.git"
+  },
+  "version": "4.17.47-a"
+}

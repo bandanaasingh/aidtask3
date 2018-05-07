@@ -1,0 +1,46 @@
+{
+  "name": "AnyOrderSupport",
+  "authors": [
+    "YetiStep Technologies"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/webapp/resources/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-select": "^1.10.0",
+    "bootstrap": "3.3.6",
+    "jasny-bootstrap": "^3.1.3",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.37",
+    "Croppie": "croppie#^2.1.0",
+    "font-awesome": "^4.6.1",
+    "devbridge-autocomplete": "^1.2.25",
+    "jstree": "^3.3.1",
+    "masonry": "^4.1.0",
+    "jquery": "^2.2.4",
+    "jquery-validation": "^1.15.0",
+    "jquery-validation-bootstrap-tooltip": "^0.10.2",
+    "datatables.net": "^1.10.13",
+    "datatables.net-bs": "^1.10.13",
+    "datatables.net-buttons": "^1.2.4",
+    "datatables.net-buttons-bs": "^1.2.4",
+    "chart.js": "^2.7.1"
+  },
+  "install": {
+    "path": "src/main/webapp/resources/vendors/test",
+    "sources": {
+      "bootstrap": "bower_components/bootstrap/dist/**"
+    }
+  },
+  "resolutions": {
+    "jquery": "^2.2.4"
+  }
+}
