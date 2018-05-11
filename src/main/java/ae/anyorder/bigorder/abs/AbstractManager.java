@@ -9,9 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Frank on 4/9/2018.
- */
+
 public class AbstractManager {
     Logger log = Logger.getLogger(AbstractManager.class);
 

@@ -23,7 +23,7 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder().title("Any Order ")
-                .description("Technical Team , Big Order").termsOfServiceUrl("url.com")
+                .description("Technical Team , Any Order").termsOfServiceUrl("url.com")
                 .contact(new Contact("Frank", "https://bandanasingh.000webhostapp.com/", "bandanaasingh07@gmail.com")).version("1.0").build();
     }
 }
